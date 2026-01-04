@@ -86,7 +86,7 @@ project_root/
 1. 在项目根目录创建/整理热度GroundTruth文件 `popularity.csv`，至少包含：
    - `关键词`
    - `热度`
-   现有的训练数据是初步采集的500+微博事件，[下载链接接](https://bhpan.buaa.edu.cn/link/AA51654EE0CB5E442A86871BD66029C7A9)
+   现有的训练数据是初步采集的500+微博事件，[下载链接](https://bhpan.buaa.edu.cn/link/AA51654EE0CB5E442A86871BD66029C7A9)
    对应的热度GroundTruth文件是本仓库中的normalized_hot_results.csv
 2. 运行标准化脚本：
 
